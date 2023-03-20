@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="coding" width="400" height="350" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
+&nbsp &nbsp &nbsp &nbsp<img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <br/>
 <br/>
 
