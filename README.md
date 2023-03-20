@@ -40,8 +40,6 @@
 <br/>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
-<br/>
-<br/>
 
 .👩🏽‍💻<strong>As a fullstack developer, my current area of interest lies in web and mobile development..</strong>
 
