@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-&nbsp &nbsp &nbsp &nbsp<img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <br/>
 <br/>
 
