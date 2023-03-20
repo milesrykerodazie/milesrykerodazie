@@ -50,10 +50,6 @@
 .🤝<strong>I am seeking opportunities to collaborate on projects utilizing NodeJS, Nestjs, Typescript, Reactjs, and Next js. Additionally, I am open to exploring new programming languages and accepting challenging projects to expand my skills.</strong>
 
 .💼 <strong> Personal Portfolio Projects(PPP) <a href="https://milesodazie-portfolio.vercel.app/" >https://milesodazie-portfolio.vercel.app/</a> </strong>
-
-<br/>
-<br/>
-<br/>
 <br/>
 
 <h3>🔗Languages and Tools</h3>
